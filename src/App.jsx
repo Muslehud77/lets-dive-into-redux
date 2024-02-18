@@ -1,3 +1,4 @@
+import Home from "./Pages/Home"
 
 
 function App() {
@@ -5,7 +6,7 @@ function App() {
 
   return (
     <>
-    <h1 className="text-center text-5xl">Redux</h1>
+   <Home/>
     </>
   )
 }
